@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Form } from "@remix-run/react";
-import { EyeOff, Eye, CircleCheck } from 'lucide-react';
+import { CircleCheck, Eye, EyeOff } from "lucide-react";
 import { Button } from "../ui/button";
 import { AlertDialog, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogFooter, AlertDialogHeader, AlertDialogTitle, AlertDialogTrigger } from "../ui/alert-dialog";
 
